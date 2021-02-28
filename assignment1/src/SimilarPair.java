@@ -1,10 +1,4 @@
 /**
- * Copyright (c) DTAI - KU Leuven – All rights reserved.
- * Proprietary, do not copy or distribute without permission.
- * Written by Pieter Robberechts, 2020
- */
-
-/**
  * SimilarPair contains the ids of two objects and their similarity.
  */
 public class SimilarPair implements Comparable<SimilarPair>{

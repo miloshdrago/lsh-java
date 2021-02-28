@@ -1,8 +1,3 @@
-/**
- * Copyright (c) DTAI - KU Leuven – All rights reserved.
- * Proprietary, do not copy or distribute without permission.
- * Written by Pieter Robberechts, 2020
- */
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;

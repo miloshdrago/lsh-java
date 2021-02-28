@@ -1,10 +1,4 @@
 /**
- * Copyright (c) DTAI - KU Leuven – All rights reserved.
- * Proprietary, do not copy or distribute without permission.
- * Written by Pieter Robberechts, 2020
- */
-
-/**
  * Representation of a Stack Overflow post.
  */
 public class Post {

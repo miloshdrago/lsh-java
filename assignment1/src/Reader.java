@@ -1,15 +1,4 @@
 /**
- * Copyright (c) DTAI - KU Leuven – All rights reserved.
- * Proprietary, do not copy or distribute without permission.
- * Written by Pieter Robberechts, 2020
- */
-import java.util.ArrayList;
-import java.util.List;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Set;
-
-/**
  * Reads a set of documents and constructs shingle representations for these
  * documents.
  */
