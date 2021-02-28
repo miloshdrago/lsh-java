@@ -1,1 +1,2 @@
-java -Xmx1900m -DentityExpansionLimit=2147480000 -DtotalEntitySizeLimit=2147480000 -Djdk.xml.totalEntitySizeLimit=2147480000 Runner -method lsh -threshold 0.5 -maxQuestions 1250000 -shingleLength 5 -numHashes 40 -numBands 10 -numBuckets 2000000 -numShingles 15000000 -seed 7825942 -dataFile /cw/bdap/assignment1/Questions.xml -testFile /cw/bdap/assignment1/Duplicates.xml -outputFile Output.xml -signaturesFile signatures1250000.csv
+This assignment aimed at finding duplicate questions in a 1.5GB Stack Overflow Data File. This was done through the implementation of a locality-sensitive hashing (LSH) algorithm.
+The resulting paper was graded 18.0/20.0.
